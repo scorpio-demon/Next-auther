@@ -1,0 +1,28 @@
+{
+  "name": "next-auther",
+  "version": "1.0.0",
+  "description": "Easy authentication system for Nestjs",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scorpio-demon/Next-auther.git"
+  },
+  "keywords": [
+    "Nextjs",
+    "Next.js",
+    "Auth",
+    "OAuth2"
+  ],
+  "author": "scorpio-demon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scorpio-demon/Next-auther/issues"
+  },
+  "homepage": "https://github.com/scorpio-demon/Next-auther#readme"
+}
